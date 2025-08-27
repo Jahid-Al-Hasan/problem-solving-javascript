@@ -26,5 +26,5 @@ function palindrome(str) {
   return true;
 }
 
-console.log(palindrome("madam"));
-console.log(palindrome("hello"));
+// console.log(palindrome("madam"));
+// console.log(palindrome("hello"));

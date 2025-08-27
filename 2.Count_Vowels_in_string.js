@@ -21,4 +21,4 @@ function countVowels(str) {
   return count;
 }
 
-console.log(countVowels("programming"));
+// console.log(countVowels("programming"));
